@@ -1,0 +1,63 @@
+{
+  "atomKeymap.promptV3Features": true,
+  "breadcrumbs.enabled": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "editor.formatOnPaste": false,
+  "editor.linkedEditing": true,
+  "editor.minimap.enabled": false,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.tabSize": 2,
+  "editor.useTabStops": false,
+  "eslint.format.enable": true,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.autoReveal": true,
+  "explorer.autoRevealExclude": {
+    "**/node_modules": false,
+    "**/bower_components": true
+  },
+  "filePathBar.pathStyle": "relative",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "prettier.printWidth": 80,
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "all",
+  "redhat.telemetry.enabled": false,
+  "zenMode.hideStatusBar": false,
+  "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[xml]": {
+    "editor.defaultFormatter": "redhat.vscode-xml"
+  },
+  "genieai.openai.temperature": 0,
+  "editor.formatOnSaveMode": "file",
+  "security.workspace.trust.untrustedFiles": "open",
+  "workbench.editor.scrollToSwitchTabs": false,
+  "workbench.editor.focusRecentEditorAfterClose": false,
+  "genieai.response.autoScroll": true,
+  "genieai.enableConversationHistory": true,
+  "circleci.hostUrl": "",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "github.copilot.chat.localeOverride": "en",
+  "files.insertFinalNewline": true,
+  "workbench.iconTheme": "vscode-icons",
+  "html.format.wrapLineLength": 0,
+  "circleci.notifications.areActive": "no",
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "genieai.promptPrefix.addTests": "Implement tests for the following code. If this is a react component, use React Testing Library and Vitest.",
+  "genieai.enableGenerateCommitMessage": false
+}
